@@ -3,7 +3,7 @@
 let localStream;
 let remoteStream;
 let peerConnection;
-let socket = new WebSocket("https://edb0-175-157-141-138.ngrok-free.app"); 
+let socket = new WebSocket("https://bf71-175-157-141-138.ngrok-free.app"); 
 
 const servers = {
     iceServers: [
